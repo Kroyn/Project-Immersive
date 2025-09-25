@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"northstar:venus_glowstone_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:mercury_shelf_fungus"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:mars_farmland"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:circuit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:solar_panel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:titanium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:titanium_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:titanium_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:polished_amethyst"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:titanium_plating"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:extinguished_lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:moon_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"northstar:moon_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"chipped:polished_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:polished_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:mundane_tiles"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

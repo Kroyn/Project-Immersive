@@ -1,0 +1,11 @@
+{
+    "name": "Project Immersive",
+    "version": "0.0.1",
+    "release_type": "alpha",
+    "description": "TODO",
+    "author": "Kroyn",
+    "overrides": [
+        "config",
+        "kubejs"
+    ]
+}

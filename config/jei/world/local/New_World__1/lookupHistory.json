@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"nomansland:fruit_cake"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:pancake"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"natures_spirit:whole_pizza","components":{"minecraft:block_state":{"pizza_bites":"0"},"minecraft:block_entity_data":{"id":"natures_spirit:pizza_block_entity"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderscape:nebulite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderscape:blinklamp"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
